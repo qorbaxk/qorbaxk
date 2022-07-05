@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:FCF297,100:f1da36&height=400&section=header&text=Butter%20Coding&desc=qorbaxk's%20GitHub%20Profile&fontSize=90&animation=fadeIn&fontAlignY=40&descAlign=70&descAlignY=57)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:FCF297,100:f1da36&height=400&section=header&text=Butter%20on%20Bread&desc=qorbaxk's%20GitHub%20Profile&fontSize=90&animation=fadeIn&fontAlignY=40&descAlign=70&descAlignY=57)
 
 
 <h3 align="center"> 📧 email 📧 </h3>
 <p align="center"> qorbaxk97@gmail.com </p>
 <br>
 
-<h5 align="center"> 안녕하세요🙂<br>제 이름은 백승연이고 프론트엔드를 공부하고 있어요!<br>버터처럼 부드럽게 코딩하는것이 저의 목표이며 열린자세로 학습하고 있습니다. </h5>
+<h5 align="center"> 안녕하세요🙂<br>제 이름은 백승연이고 프론트엔드를 공부하고 있어요!</h5>
 
 <br>
-<h3 align="center">🧈 Tech Stack 🧈</h3>
+<h3 align="center">🍞 Tech Stack 🍞</h3>
 
 <p align="center">💡used as the main</p>
 <div align=center>
